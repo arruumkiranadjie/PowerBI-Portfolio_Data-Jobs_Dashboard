@@ -1,8 +1,6 @@
 # Data Jobs Dashboard - Power BI Portfolio
 
 [![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
-[![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge)]()
-[![Power Query](https://img.shields.io/badge/Power_Query-217346?style=for-the-badge)]()
 [![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)
 [![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](https://www.markdownguide.org)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
@@ -23,18 +21,15 @@ Together, they demonstrate end-to-end proficiency across the full Power BI workf
 ```
 Power-BI-Portfolio_DataJobs
 │
-├── README.md                                              ← README
+├── README.md                                                      ← README
 │
-├── dashboards                                             ← Power BI Dashboard Files
-│   ├── Data_Jobs_Dashboard_-_Arruum_Kiranadjie.pbix              ← v1
-│   └── Data_Jobs_Dashboard_2_0_-_Arruum_Kiranadjie_-_v2.pbix    ← v2
+├── dashboards                                                     ← Power BI Dashboard Files
+│   ├── Data_Jobs_Dashboard_-_Arruum_Kiranadjie.pbix               ← Dashboard v1
+│   └── Data_Jobs_Dashboard_2_0_-_Arruum_Kiranadjie_-_v2.pbix      ← Dashboard v2
 │
-└── src                                                    ← Source Data For This Project
-    └── data
-        ├── job_postings_flat.csv                          ← Single flat table format
-        ├── job_postings_monthly.xlsx                      ← Monthly breakdown (multi-sheet)
-        ├── monthly_files/                                 ← Individual monthly Excel files
-        └── star_schema_files/                             ← Normalized star schema tables
+└── images                                                    ← Source Data For This Project
+    ├── Data_Jobs_Dashboard_-_Arruum_Kiranadjie.pbix               ← Dashboard v1
+    └── Data_Jobs_Dashboard_2_0_-_Arruum_Kiranadjie_-_v2.pbix      ← Dashboard v2
 ```
 
 ## 📊 Dataset
