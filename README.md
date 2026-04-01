@@ -39,10 +39,10 @@ The Dataset is sourced from [Luke Barousse's Power BI for Data Analytics](https:
 
 | Table | Description |
 |---|---|
-| `job_postings_flat` | Single denormalized table containing all job posting attributes |
-| `job_postings_monthly` | Multi-sheet Excel file organized by month for time series analysis |
-| `monthly_files` | Individual monthly Excel files for folder-based batch import in Power Query |
-| `star_schema_files` | Normalized relational tables structured as a star schema for v2 modeling |
+| `job_postings_flat` | Complete job posting attributes |
+| `job_postings_monthly` | Multiple Excel sheet of job posting by month for time series analysis |
+| `monthly_files` | Multiple Excel files of job posting by month for Power Query |
+| `star_schema_files` | Multiple relational tables structured in a star schema for modeling |
 
 ## 📈 Dashboards
 
