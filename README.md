@@ -1,4 +1,4 @@
-# Data Jobs Dashboard - Power BI Portfolio
+# Data Jobs Dashboard - Power BI Project
 
 [![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
 [![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)
@@ -7,19 +7,16 @@
 
 ## 📌 Overview
 
-*Power BI Portfolio - Data Jobs Dashboard* is a two-part dashboard series built as the **Final Project** of [Luke Barousse's Power BI for Data Analytics Course](https://www.lukebarousse.com/courses). The dashboards explore real-world **2024 data science job postings**, translating raw hiring data into actionable workforce intelligence across roles, salaries, skills, and locations.
+*Power BI Project - Data Jobs Dashboard* is a two-part dashboard series built as the **Final Project** of [Luke Barousse's Power BI for Data Analytics Course](https://www.lukebarousse.com/courses). The dashboards explore real-world **2024 data science job postings**, translating raw hiring data into actionable workforce intelligence across roles, salaries, skills, and locations.
 
-The portfolio consists of two versions, each applying a distinct design philosophy and data modeling approach:
-
-- **v1 – Data Jobs Dashboard:** A comprehensive two-page report featuring a broad market overview with drill-through interactivity and dynamic filtering across job titles, platforms, and geographies.
-- **v2 – Data Jobs Dashboard 2.0:** A refined single-page dashboard focused on delivering streamlined, high-signal insights using advanced DAX measures and a star schema data model for improved performance and scalability.
-
-Together, they demonstrate end-to-end proficiency across the full Power BI workflow — from raw data ingestion and transformation in **Power Query**, to relational modeling, to expressive visualization design and DAX-driven analytical depth.
+Project consists of two Dashboards, each applying a distinct purpose and data modeling approach:
+- **Data Jobs Dashboard 1.0:** A comprehensive report featuring a broad market overview with drill-through interactivity, detailed visualizations, and dynamic filtering across job titles, platforms, and geographies.
+- **Data Jobs Dashboard 2.0:** A refined measurement dashboard focused on delivering streamlined, high-signal job distribution allowing users to interactively explore parameters using advanced DAX measures, data transform through Power Query, and a star schema data model.
 
 ## 📂 Repository Structure
 
 ```
-Power-BI-Portfolio_DataJobs
+Power-BI-Project_DataJobs
 │
 ├── README.md                                                      ← README
 │
@@ -66,20 +63,11 @@ Data Jobs Dashboard 2.0 represents a single-page interactive dashboard using **D
 | Interactivity | Drill-Through, Cross-Filtering, Bookmarks, Conditional Formatting |
 
 ## 💡 Key Findings Summary
-
-- **Data Analyst is the Highest-Volume Role:** Data Analyst postings dominate the 2024 job market by volume, though Data Engineer and Data Scientist roles command significantly higher median salaries.
-- **SQL is the Universal Skill:** SQL appears as a required skill across virtually every data role, reinforcing its position as the baseline technical requirement for entering the data field.
-- **Python Separates Junior from Senior Roles:** Python requirements are concentrated in higher-paying roles, suggesting it is a key differentiator for salary progression within data careers.
-- **Remote Work Remains Prevalent:** A substantial portion of data job postings continue to offer remote or hybrid flexibility, particularly for senior-level positions.
-- **Platform Diversity Matters:** Job postings are distributed across multiple platforms, with LinkedIn and company-direct postings accounting for the largest share of listings.
-
-## 💡 Key Findings Summary
  
 - **Data Engineer Leads Both in Demand and Compensation:** Data Engineer postings represent the highest share of total listings in 2024 and simultaneously command the highest median salary both yearly and hourly compared to Data Scientist and Data Analyst roles. This dual dominance signals that the market is actively pricing specialized engineering skills, and that demand for data infrastructure talent has outpaced supply.
 - **Python Is the Primary Salary Lever:** Python requirements are disproportionately concentrated in higher-compensated postings, establishing it as the key technical differentiator between entry-level and senior-level data roles. Candidates who extend beyond SQL into Python meaningfully expand both their addressable job market and their salary ceiling. 
 - **SQL Is the Non-Negotiable Baseline:** SQL surfaces as a required skill across virtually every data role and seniority level, making it the single most consistent hiring signal in the dataset. Its near-universal presence positions SQL proficiency not as a differentiator, but as the minimum viable credential for market entry.
 - **LinkedIn Still Tops Across Platforms:** LinkedIn lists account for the largest volume, the distribution across LinkedIn indicates that a single-channel job search strategy creates meaningful coverage gaps for both employers and candidates.
-
 
 ## 👤 About The Author
 
