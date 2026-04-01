@@ -11,7 +11,7 @@
 1. **Data Jobs Dashboard 1.0** prioritizes analytical breadth, delivering a comprehensive report with **drill-through interactivity, detailed visualizations, and dynamic filtering** across job titles, platforms, and geographies.
 2. **Data Jobs Dashboard 2.0** advances the work architecturally and analytically consolidating insights into a focused, measurement dashboard powered by a **star schema data model, explicit DAX measures, and structured Power Query transformations**, reflecting the design standards expected in professional BI environments.
 
-[![Watch the Demo](https://img.youtube.com/vi/FwjaHCVNBWA&t=13999s/0.jpg)](https://www.youtube.com/watch?v=FwjaHCVNBWA&t=13999s)
+[▶️ Watch Dashboard Demo](https://drive.google.com/file/d/1WEAfl3xsTx62oCy5-QtQ4nEn9ycrS_rw/view)
 
 ## 📂 Repository Structure
 
